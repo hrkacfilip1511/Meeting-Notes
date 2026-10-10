@@ -6,7 +6,7 @@ Teams take meeting notes but action items get buried in prose and never followed
 
 ### Prerequisites
 
-- Node.js 18+ (LTS recommended)
+- Node.js 18+ 
 - A free Groq API key — sign up at [console.groq.com](https://console.groq.com) and create an API key. No payment method is required for the free tier.
 
 ### 1. Backend
